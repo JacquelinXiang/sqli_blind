@@ -16,7 +16,7 @@ sql_blind是为了方便SQL盲注而开发的小工具/框架，目前支持基�
 
 # 使用方法
 
-1 下载源代码，根据实际情况修改sqli_bb.py和sqli_tb.py的payload和部分参数
+1 下载源代码，根据实际情况修改sqli_bb.py和sqli_tb.py的payload和部分参数   
 2 命令行进入源代码所在文件夹（比如sqli_blind）上级文件夹
 输入
 python
