@@ -29,7 +29,7 @@ python
 
 以pikachu漏洞平台SQL-Inject的布尔盲注关卡为例：
 
->>> from sqli_blind import *
+\>\>\> from sqli_blind import *
 >>> CurrentDatabaseBool()
 the name of current database contains 7 characters
 the name of current database is PIKACHU
