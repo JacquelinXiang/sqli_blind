@@ -1,7 +1,7 @@
-# sql_blind
+# sqli_blind
 A simple tool/framework for boolean-based or time-based sql injection(blind) 
 
-**sql_blind是一款用于基于布尔的SQL盲注和基于时间的SQL盲注的简单工具/框架**
+**sqli_blind是一款用于基于布尔的SQL盲注和基于时间的SQL盲注的简单工具/框架**
 
 # 简介
 
