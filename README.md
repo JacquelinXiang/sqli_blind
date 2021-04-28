@@ -77,4 +77,4 @@ the name of all columns in current table contains 164 characters
 the name of all columns in current table is      user_id,first_name,last_name,user,password,avatar,last_login,failed_login,USER,CURRENT_CONNECTIONS,TOTAL_CONNECTIONS,id,username,password,level,id,username,password      
 \>\>\> ContentWide()  
 the content contains 117 characters     
-the content is admin~e10adc3949ba59abbe56e057f20f883e,pikachu~670b14728ad9902aecba32e22fa4f6bd,test~e99a18c428cb38d5f260853678922e03     
+the content is admin\~e10adc3949ba59abbe56e057f20f883e,pikachu\~670b14728ad9902aecba32e22fa4f6bd,test\~e99a18c428cb38d5f260853678922e03     
